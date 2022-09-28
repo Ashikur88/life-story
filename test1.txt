@@ -3,3 +3,4 @@ New text has been added.
 Again i have added for learning pull command in git fron github repo.
 I have started larning ethical hacking from 2022.
 Learning Hacking is my dream.
+Now I am learning git banch and merge, and after completing this i will learn c programing.
