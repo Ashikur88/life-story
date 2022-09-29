@@ -5,3 +5,4 @@ I have started larning ethical hacking from 2022.
 Learning Hacking is my dream.
 Now I am learning git banch and merge, and after completing this i will learn c programing.
 Finally it is time to merge file locally.
+Logo allignment is centered.
