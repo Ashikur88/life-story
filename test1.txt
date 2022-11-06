@@ -1,9 +1,9 @@
 Hey this file is only  for sharing new text.
 New text has been added.
 Again i have added for learning pull command in git fron github repo.
-I have started larning ethical hacking from 2022.
+I have started larning ethical hacking from march,2022.
 Learning Hacking is my dream.
 Now I am learning git banch and merge, and after completing this i will learn c programing.
 Finally it is time to merge file locally.
 Logo allignment is centered.
-New line is added for the main branch.
+New line is added in feature branch.
